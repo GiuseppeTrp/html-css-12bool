@@ -65,6 +65,17 @@ h2{
 .space-between{
     justify-content: space-between;
 }
+.top{
+    align-items: flex-start;
+   
+}
+
+.middle{
+    align-items: center;
+}
+.bottom{
+    align-items: flex-end;
+}
 
 .no-wrap{ 
     flex-wrap:nowrap;
