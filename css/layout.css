@@ -5,7 +5,7 @@
 }
 /* reset */
 
-h2{
+h2,h1{
     color: black;
     
 }
@@ -64,6 +64,10 @@ h2{
 }
 .space-between{
     justify-content: space-between;
+}
+
+.space-around{
+    justify-content: space-around;
 }
 .top{
     align-items: flex-start;
